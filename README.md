@@ -1,7 +1,7 @@
 - 👋  hi, I’m @ritamere 
 - 🌱  i’m currently learning C++ sportive programming and Swift UI 
 - 👀  i’m interested in UX/UI paradigmas & creating illustrations 
-- 💞️  there we appreciate good literature, harsh-n-deep learning and non-sugared milktea 
+- 💞️  there we appreciate good literature, harsh-n-deep learning and cold milktea 
 - 📫  you may reach me on: vk.com/ritamere1 
 
 <!---
